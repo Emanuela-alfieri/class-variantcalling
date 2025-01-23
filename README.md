@@ -34,4 +34,4 @@ In order to run this space with GitPod, please make sure:
 
 Now you're all set and can use the following button to launch the service.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/compgen-unipv/class-variantcalling)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Emanuela-alfieri/class-variantcalling)
